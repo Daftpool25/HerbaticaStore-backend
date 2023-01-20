@@ -1,0 +1,5 @@
+//TODO no pueda registrar usuarios repetidos
+//TODO editar el get params query y que ademas el TOken se origine a partir de email no de id
+//a veces buscar por id y no por name
+//register tenga token
+//config utils
