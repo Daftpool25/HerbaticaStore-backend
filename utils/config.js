@@ -5,10 +5,10 @@ module.exports={
     SECRET: process.env.SECRET ,
     YOUR_DOMAIN : process.env.YOUR_DOMAIN,
     //DATABASE
-    HOST_DB: process.env.HOST,
-    DATABASE: process.env.DATABASE,
-    USER: process.env.USER,
-    PASSWORD: process.env.PASSWORD
+    HOST_DB: process.env.HOST ,
+    DATABASE: process.env.DATABASE ,
+    USER: process.env.USER ,
+    PASSWORD: process.env.PASSWORD 
     //
 
 }
